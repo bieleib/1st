@@ -29,14 +29,8 @@ body {
 
 .avatar {
     
-    margin: 0 auto 5%;
-    width: 100%;
-    
-}
-
-.avatar img {
-    
-    max-width: 224px;
+    margin: 0 auto;
+    max-width: 224px;   
     
 }
 
